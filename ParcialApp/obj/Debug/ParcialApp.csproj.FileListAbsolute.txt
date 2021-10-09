@@ -1,0 +1,19 @@
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Presentacion.Frm_Alta.resources
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Properties.Resources.resources
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe.config
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\bin\Debug\ParcialApp.pdb
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.exe
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.pdb
+C:\Users\PC\Documents\TUP UTN\Programacion 2\Repo_progII-main\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csprojAssemblyReference.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\Repo_progII-main\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Presentacion.Frm_Alta.resources
+C:\Users\PC\Documents\TUP UTN\Programacion 2\Repo_progII-main\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Properties.Resources.resources
+C:\Users\PC\Documents\TUP UTN\Programacion 2\Repo_progII-main\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.GenerateResource.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\Repo_progII-main\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\Repo_progII-main\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\obj\Debug\ParcialApp.exe
+C:\Users\PC\Documents\TUP UTN\Programacion 2\Repo_progII-main\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\obj\Debug\ParcialApp.pdb
+C:\Users\PC\Documents\TUP UTN\Programacion 2\Repo_progII-main\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe.config
+C:\Users\PC\Documents\TUP UTN\Programacion 2\Repo_progII-main\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe
+C:\Users\PC\Documents\TUP UTN\Programacion 2\Repo_progII-main\Repo_progII-main\Modelo de parcial\ParcialSln\ParcialApp\bin\Debug\ParcialApp.pdb
